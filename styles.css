@@ -1,0 +1,103 @@
+html *
+{
+   font-family:'Inconsolata', monospace !important;
+   
+}
+
+body {
+    background-color: #fffdf8;
+}
+
+a:link, a:visited {
+    background-color: transparent;
+    color: rgb(69, 69, 69);
+}
+  
+a:hover, a:active {
+    color: rgb(80, 80, 80);
+    background-color: transparent;
+}
+
+.carousel {
+    padding-top:3%;
+    padding-left: 6%;
+    padding-right: 6%;
+}
+
+.card-deck {
+    padding-top: 3%;
+    font-size: 75%;
+    margin-left:5%;
+    margin-right:5%;
+    padding-bottom: 5%;
+}
+
+#things-to-remember {
+    padding-top: 5%;
+    font-size: 150%;
+    text-align: center;
+}
+
+#about {
+    padding-top: 0%;
+    font-size: 150%;
+    text-align: center;
+  
+}
+
+#about-p {
+    font-size: 80%;
+    text-align: center;
+    padding-bottom:0%;
+    padding-top: 0%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#about-p2 {
+    font-size: 80%;
+    text-align: center;
+    padding-bottom:0%;
+    padding-top: 0%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#about-p3 {
+    font-size: 80%;
+    text-align: center;
+    padding-bottom:5%;
+    padding-top: 0%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+video {
+    padding-bottom:13%;
+    margin-bottom: 0%;
+    padding-top:0%;
+    display: block;
+    margin: auto;
+    
+}
+
+.card-columns {
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+}
+
+#accordion {
+    padding-top: 0%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 10%;
+}
+
+#gallery {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 10%;
+}
